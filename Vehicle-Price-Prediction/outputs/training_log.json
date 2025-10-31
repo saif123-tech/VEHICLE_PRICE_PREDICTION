@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-08-17T12:26:30.817877",
+  "total_duration": 71.37513661384583,
+  "device": "cuda",
+  "models": [
+    {
+      "name": "Ridge",
+      "start_time": 1755413719.4576092,
+      "status": "completed",
+      "end_time": 1755413725.5500832,
+      "duration": 6.092473983764648,
+      "metrics": {
+        "MAE": 329035.8480459095,
+        "RMSE": 662507.4194294978,
+        "R2": 0.5774242044408335
+      },
+      "best_params": {
+        "alpha": 323.745754281764
+      }
+    },
+    {
+      "name": "RandomForest",
+      "start_time": 1755413725.5506985,
+      "status": "completed",
+      "end_time": 1755413739.901091,
+      "duration": 14.350392580032349,
+      "metrics": {
+        "MAE": 155785.95515339388,
+        "RMSE": 381143.92701263033,
+        "R2": 0.8601375493105476
+      },
+      "best_params": {
+        "n_estimators": 800,
+        "min_samples_split": 2,
+        "min_samples_leaf": 1,
+        "max_features": null,
+        "max_depth": 10
+      }
+    },
+    {
+      "name": "XGBRegressor",
+      "start_time": 1755413739.901671,
+      "status": "completed",
+      "end_time": 1755413747.2697217,
+      "duration": 7.368050813674927,
+      "metrics": {
+        "MAE": 150113.24224087075,
+        "RMSE": 653229.2235329419,
+        "R2": 0.5891773910821392
+      },
+      "best_params": {
+        "subsample": 1.0,
+        "reg_lambda": 5.0,
+        "reg_alpha": 0,
+        "max_depth": 8,
+        "learning_rate": 0.05,
+        "colsample_bytree": 0.8
+      }
+    },
+    {
+      "name": "LGBMRegressor",
+      "start_time": 1755413747.2707212,
+      "status": "completed",
+      "end_time": 1755413790.5323484,
+      "duration": 43.261627197265625,
+      "metrics": {
+        "MAE": 166024.30424346068,
+        "RMSE": 667103.5624247942,
+        "R2": 0.571540630027259
+      },
+      "best_params": {
+        "subsample": 0.9,
+        "num_leaves": 31,
+        "min_child_weight": 0.01,
+        "max_depth": 16,
+        "learning_rate": 0.05,
+        "colsample_bytree": 1.0
+      }
+    }
+  ],
+  "summary": {
+    "total_models": 4,
+    "total_time": "71.4s"
+  }
+}

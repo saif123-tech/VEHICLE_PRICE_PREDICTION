@@ -1,0 +1,6 @@
+Rows total: 12283
+Splits: train=9825 val=1229 test=1229
+Numeric features: ['km_driven', 'mileage_value', 'engine_cc', 'max_power_bhp', 'torque_nm', 'torque_rpm', 'seats', 'age']
+Categorical features: ['fuel', 'transmission', 'owner', 'seller_type', 'mileage_unit', 'make']
+Source files: ['CAR DETAILS FROM CAR DEKHO.csv', 'Car details v3.csv', 'car data.csv', 'car details v4.csv']
+Price stats: min=0, p25=229999, median=411000, p75=680000, max=35000000

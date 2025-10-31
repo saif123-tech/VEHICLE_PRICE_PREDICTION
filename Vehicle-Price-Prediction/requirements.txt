@@ -1,0 +1,31 @@
+# === Core Data Handling ===
+pandas
+numpy
+
+# === Machine Learning ===
+scikit-learn
+joblib
+
+# === Visualization (for EDA) ===
+matplotlib
+seaborn
+
+# === Gradient Boosting Models (Optional but Recommended) ===
+xgboost
+lightgbm
+catboost
+
+# === API Development ===
+fastapi
+uvicorn[standard]
+python-multipart
+
+# === Additional Utilities ===
+python-dateutil
+packaging
+
+# === For Serving Models ===
+pydantic
+
+# === Optional: For Notebooks ===
+jupyter

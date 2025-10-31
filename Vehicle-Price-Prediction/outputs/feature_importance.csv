@@ -1,0 +1,109 @@
+feature,importance
+transmission_Manual,0.17576773
+max_power_bhp,0.16915952
+make_None,0.09003363
+transmission_Automatic,0.057772048
+owner_0,0.050654374
+make_Isuzu,0.046567637
+fuel_Petrol,0.03716119
+engine_cc,0.03511316
+fuel_None,0.03338024
+age,0.029901884
+make_Mercedes-Benz,0.017946722
+make_Toyota,0.015205167
+owner_Second,0.014633766
+owner_Test Drive Car,0.01420364
+fuel_Diesel,0.01331427
+make_MG,0.012766706
+make_Audi,0.01239626
+make_Land Rover,0.012025465
+make_Maruti,0.011314297
+make_innova,0.01076973
+make_BMW,0.010306246
+owner_First,0.008462017
+make_Skoda,0.008451808
+make_Tata,0.00838701
+seller_type_Corporate,0.0076205214
+mileage_unit_kmpl,0.007159554
+mileage_unit_None,0.0071379067
+owner_Third,0.0065607503
+make_Mahindra,0.0058803055
+torque_nm,0.0052581783
+make_Hyundai,0.005196719
+seller_type_Individual,0.005122288
+make_Chevrolet,0.005063294
+owner_UnRegistered Car,0.0049535357
+make_Jaguar,0.004727143
+make_Volkswagen,0.0039669834
+make_Ford,0.0034489643
+torque_rpm,0.0029950468
+owner_First Owner,0.002993098
+make_Jeep,0.0026234097
+make_Volvo,0.0024670565
+seats,0.0020120344
+make_Honda,0.0019565506
+km_driven,0.001921049
+mileage_value,0.0019077493
+make_Datsun,0.0017351966
+owner_Second Owner,0.0013749019
+make_Fiat,0.0012923251
+make_Mitsubishi,0.0012134454
+make_Renault,0.0011645466
+owner_1,0.0009840922
+fuel_CNG,0.0008810142
+seller_type_Trustmark Dealer,0.00083116075
+make_Nissan,0.0005408055
+make_Kia,0.0005251452
+seller_type_Dealer,0.0005202472
+owner_Third Owner,0.0004688343
+make_Ashok,0.00030109743
+owner_Fourth & Above Owner,0.00028474405
+owner_Fourth,0.0002462827
+seller_type_Commercial Registration,0.00017637956
+make_Force,9.93252e-05
+make_Mahindra Renault,9.753865e-05
+fuel_LPG,8.2495746e-05
+mileage_unit_km/kg,8.117646e-05
+make_Activa,7.917571e-05
+make_xcent,7.237569e-05
+make_Hyosung,6.41746e-05
+make_corolla,4.0082e-05
+make_grand,3.278451e-05
+make_Ambassador,3.2006155e-05
+make_fortuner,2.4057033e-05
+make_Daewoo,1.7057113e-05
+make_alto,1.3720945e-05
+make_amaze,1.2159543e-05
+make_Hero,1.2153279e-05
+make_Bajaj,1.1789543e-05
+make_etios,5.676461e-06
+make_verna,5.356137e-06
+make_KTM,4.095659e-06
+make_i20,2.8193801e-06
+make_ciaz,2.5195502e-06
+make_TVS,5.170569e-07
+fuel_Electric,0.0
+make_800,0.0
+make_Peugeot,0.0
+make_Royal,0.0
+make_Opel,0.0
+make_Lexus,0.0
+make_OpelCorsa,0.0
+make_brio,0.0
+make_UM,0.0
+make_ertiga,0.0
+make_eon,0.0
+make_elantra,0.0
+make_dzire,0.0
+make_city,0.0
+make_creta,0.0
+make_Yamaha,0.0
+make_i10,0.0
+make_ritz,0.0
+make_omni,0.0
+make_jazz,0.0
+make_s,0.0
+make_sx4,0.0
+make_swift,0.0
+make_wagon,0.0
+make_vitara,0.0
